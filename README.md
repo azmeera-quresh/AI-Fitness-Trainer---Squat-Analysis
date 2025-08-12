@@ -30,7 +30,7 @@ The system detects body keypoints, analyses posture, and provides instant feedba
 ## 📂 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/azmeera-qureshi/ai-fitness-squat-analysis.git
+git clone https://github.com/azmeera-quresh/AI-Fitness-Trainer---Squat-Analysis.git
 cd ai-fitness-squat-analysis
 
 # Install dependencies
